@@ -1,0 +1,44 @@
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.deps.json
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.dll
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.pdb
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfo.cs
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.dll
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\refint\StripsBL.dll
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.pdb
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\ref\StripsBL.dll
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.deps.json
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.dll
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.pdb
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfo.cs
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.dll
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\refint\StripsBL.dll
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.pdb
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\ref\StripsBL.dll
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\obj\Debug\net6.0\StripsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfoInputs.cache
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfo.cs
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\obj\Debug\net6.0\StripsBL.csproj.CoreCompileInputs.cache
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\obj\Debug\net6.0\StripsBL.dll
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\obj\Debug\net6.0\refint\StripsBL.dll
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\obj\Debug\net6.0\StripsBL.pdb
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\bin\Debug\net6.0\StripsBL.deps.json
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\bin\Debug\net6.0\StripsBL.dll
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\bin\Debug\net6.0\StripsBL.pdb
+C:\HOGENT\jaar2\Web4\TEST 10112023\StripsBL\obj\Debug\net6.0\ref\StripsBL.dll
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\bin\Debug\net6.0\StripsBL.deps.json
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\bin\Debug\net6.0\StripsBL.dll
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\bin\Debug\net6.0\StripsBL.pdb
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\obj\Debug\net6.0\StripsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfoInputs.cache
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfo.cs
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\obj\Debug\net6.0\StripsBL.csproj.CoreCompileInputs.cache
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\obj\Debug\net6.0\StripsBL.dll
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\obj\Debug\net6.0\refint\StripsBL.dll
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\obj\Debug\net6.0\StripsBL.pdb
+C:\HOGENT\jaar2\Web4\Nicolas Chatelain Solution Strips\StripsBL\obj\Debug\net6.0\ref\StripsBL.dll
